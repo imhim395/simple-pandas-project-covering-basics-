@@ -1,6 +1,9 @@
 Pandas Intro Project
+
 A beginner pandas project built in Google Colab using a simple fruits dataset.
+
 Setup
+
 No installation needed — pandas comes pre-installed in Google Colab.
 
 Concepts Covered
